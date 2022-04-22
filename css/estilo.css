@@ -1,0 +1,114 @@
+@charset "utf-8";
+/*São Jośe 17-21/04/22*/
+.container-fluid{background-color: #F2F2F2;
+                 margin: 5px;}
+
+
+     #titulo{width: 100%;
+              height: 303px;
+              margin-top: 5px;
+              margin-bottom: 5px;
+             background-color: aquamarine;
+              background-image: url(IMGS/bg-title-G.png);}
+
+     #autor-do-texto{width: 100%;
+                       height: 50px;
+                       background-color: #595959;
+                       margin-top: 5px;}  
+                       
+      #autor{font-size: 1.0em;} 
+      
+      #autor a{color:aliceblue;}
+      
+      #autor a:hover{padding: 30px;
+                     background-color: gray;
+                    border: solid 3px black;
+                    font-size: 1.6em;
+                     color:black;}
+
+
+       #gif-fut{width: 100%;
+                 height: 600px;
+                 margin-top: 5px;
+                 margin-bottom: 5px;
+                 background-color: aqua;
+                 background-image: url(IMGS/Slide-Version-Final.gif);}
+
+
+h1{font-size: 4vw;
+    text-align: center;}
+
+
+
+    p{line-height: 2.5em;
+      font-size: 1.5vw;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-indent: 45px;}
+
+
+    .normal{margin-top:5px;
+             width: 100%;
+            height: 500px;
+            margin-bottom: 5px;
+           background-color: #F2F2F2;
+           }
+
+
+           
+
+            #normal-dois{height: 1020px;
+                   }
+
+            #normal-tres{height: 700px;
+                            }
+
+            #normal-quatro{height:780px ;
+                             }
+
+            #normal-cinco{height: 650px;
+                           }
+
+    .image{margin-top: 5px;
+            width: 100%;
+             height: 500px;
+             background-color: green;
+             background-attachment: fixed;}
+
+
+       #img-um{background-image: url(IMGS/BG-01-G.jpg);}    
+       
+       #img-dois{background-image: url(IMGS/BG-02-G.jpg);}
+
+       #img-tres{background-image: url(IMGS/BG-03-G.jpg);}
+
+       #img-quatro{background-image: url(IMGS/BG-04-G.jpg);}
+
+
+    footer{background-color: black;
+        
+
+        width: 100%;
+        height: 100px;
+
+    }
+
+    #text-footer{font-size: large;
+                 font-weight: bolder;
+                 color: white;
+                 padding-top: 85px;
+                 margin-left: 200px;
+                position: absolute;
+                margin-top: -30px;}
+
+                 #redeSocial{margin-left: 900px;
+                              font-size: larger;
+                             position: absolute;
+                              margin-top: 50px;}
+
+
+                        #redeSocial a{color: white;} 
+                        
+                        #redeSocial a:hover{padding: 20px;
+                                             background-color: white;
+                                            color: black;}
